@@ -54,33 +54,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
----
-
-##  Key Featured Projects
-
-### [AI Code Review & Bug Prediction Tool](ADD_REPO_LINK) — *Ongoing*
-*AI-powered code analysis tool for identifying potentially defect-prone code.*
-
-- Exploring CodeBERT fine-tuning on Defects4J and BugsInPy for software defect prediction.
-- Developing a React frontend and FastAPI backend for code analysis and review feedback.
-
-### [ML-Based Webcam Abuse Detector](https://github.com/JunitSarah/ml-based-webcam-abuse-detector) — *Security + ML*
-
-*Machine learning system that detects suspicious webcam access.*
-
-- **Anomaly Detection:** Uses Isolation Forest to identify unusual webcam access patterns without analyzing video content.
-- **Behavioral Analysis:** Evaluates access duration, time of access, foreground status, user activity, CPU usage, memory consumption, application trust, network connectivity, and access frequency.
-- **Results:** Experimental evaluation reported 97.8% accuracy and 92.4% precision.
-
-### [Kochi Water Metro Live Tracker](https://github.com/JunitSarah/watermetrotracker) — *Full-Stack Development*
-
-*Web application for visualizing Kochi Water Metro vessel locations on an interactive map.*
-
-- **Interactive Mapping:** Uses Leaflet.js to visualize vessel locations.
-- **Backend Integration:** Uses FastAPI for API handling and MongoDB for data management.
-- **Tech Stack:** React.js, FastAPI, MongoDB, Leaflet.js.
-
----
 
 ## 📫 Let's Connect
 
