@@ -15,6 +15,7 @@
 -  **Security & Detection:** Developed an ML-based webcam abuse detector using Isolation Forest to flag anomalous access patterns based on access duration, user activity, application trust, resource usage, and network behavior.
 
 ---
+<div align="center">
 ##  Technical Stack
 ### 💻 Languages &  Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,10 +53,11 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<a href="https://www.linkedin.com/in/junitsarahvarghese/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-<p align="center">
-## 📫 Let's Connect
-
-- **LinkedIn:** [linkedin.com/in/junitsarahvarghese](https://www.linkedin.com/in/junitsarahvarghese/)
-- **Email:** [junitvargis7312@gmail.com](mailto:junitvargis7312@gmail.com)
-</p>
+<a href="mailto:junitvargis7312@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+</div>
