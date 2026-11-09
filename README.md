@@ -15,7 +15,6 @@
 -  **Security & Detection:** Developed an ML-based webcam abuse detector using Isolation Forest to flag anomalous access patterns based on access duration, user activity, application trust, resource usage, and network behavior.
 
 ---
-<p align="center">
 ##  Technical Stack
 ### 💻 Languages &  Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -53,7 +52,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</p>
 
 <p align="center">
 ## 📫 Let's Connect
